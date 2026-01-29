@@ -1,3 +1,6 @@
+Clear-Host
+Write-Host "START POINT" -ForegroundColor Green
+Write-Host "Welcome to Start Point Installer" -ForegroundColor Green
 # =====================================================
 # START POINT v1
 # Fast • Clean • winget-powered
